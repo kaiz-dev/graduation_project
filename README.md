@@ -86,7 +86,7 @@ graduation_project/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kaiz-dev/graduation_project.git
    cd graduation_project
    ```
 
