@@ -103,10 +103,39 @@ graduation_project/
 ## Dependencies
 
 ```
+# Core Data Processing
 elasticsearch==8.8.0
 happybase==1.2.0
-pyvi==0.1.1
 pyspark==3.2.4
+
+# NLP - Vietnamese
+pyvi==0.1.1
+
+# Message Queue
+kafka-python>=2.0.2
+
+# ML & Vector Search
+faiss-cpu>=1.7.0
+scikit-learn>=1.0.0
+
+# Data Manipulation
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Web Crawling
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# HBase Thrift Protocol
+thrift>=0.16.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Translation (optional)
+googletrans==4.0.0-rc1
 ```
 
 Additional dependencies (install separately):
