@@ -138,11 +138,6 @@ seaborn>=0.12.0
 googletrans==4.0.0-rc1
 ```
 
-Additional dependencies (install separately):
-```bash
-pip install kafka-python faiss-cpu numpy pandas scikit-learn
-```
-
 ## Usage
 
 ### 1. Start the Crawler
